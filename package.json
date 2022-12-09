@@ -16,7 +16,7 @@
     "es6-promise": "^4.2.8",
     "fastclick": "^1.0.6",
     "scrollreveal": "^4.0.6",
-    "tinymce": "^5.2.2",
+    "tinymce": "^5.10.7",
     "vue": "^2.5.2",
     "vue-router": "^3.1.6"
   },
